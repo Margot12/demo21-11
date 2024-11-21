@@ -1,2 +1,2 @@
 # demo21-11
-Démo formation git ptojet g1g2
+Démo formation git projet g1g2
